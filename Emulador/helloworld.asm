@@ -5,6 +5,7 @@
 # a0-a2 - parameters to linux function services
 # a7 - linux function number
 #
+# Taken from TheThirdOne RARAS Wiki
 
 .global _start      # Provide program starting address to linker
 
