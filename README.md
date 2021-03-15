@@ -6,14 +6,17 @@ Syllabus del curso IIC2343 Arquitectura de Computadores para el semestre 2021-1.
 
 | Tipo  | Tópico                             | Fecha        | Clase  | Grabación | Otros |
 | :-:   | -                                  | :-:          | :-:    | :-:       | :-:   |
-| Clase   | Introducción al ramo             | 15-03        | [PDF](../../tree/master/Clases/Presentation.pdf)    | [Link](https://zoom.us/rec/share/yromlzG-mapg_dTShlCHZvk5YvAqao2Ma7ml3rcrNTZT7DOr4ObqMeOvRwIfWW0.9zmymvFX0aXooX9j)       | ...   |
+| Clase   | Introducción al ramo             | 15/03        | [PDF](../../tree/master/Clases/Presentation.pdf)    | [Link](https://zoom.us/rec/share/yromlzG-mapg_dTShlCHZvk5YvAqao2Ma7ml3rcrNTZT7DOr4ObqMeOvRwIfWW0.9zmymvFX0aXooX9j)       | ...   |
 
 ## Calendario evaluaciones y ponderaciones
 
 | Evaluación | Publicación | Entrega | Otros |
 | :-:        | :-:         | :-:     | :-:   |
+| T1 | 12/04 | TBD | ... |
 | I1 | 23/04 | 23/04 | ... |
-| I2 | 16/06 | 16/06 | ... |
+| T2 | 7/06 | TBD | ... |
+| I2 | 16/07 | 16/06 | ... |
+
 
 Además se harán 2 tareas de programación en assembly RISC-V, una antes de la primera interrogación y otra antes de la segunda interrogación.
 
