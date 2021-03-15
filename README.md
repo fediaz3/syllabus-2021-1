@@ -1,19 +1,20 @@
 # IIC2343 - Arquitectura de Computadores
 
-Syllabus del curso IIC2324 Arquitectura de Computadores para el semestre 2021-1. El curso constará de tres evaluaciones, en las fechas indicadas.
+Syllabus del curso IIC2324 Arquitectura de Computadores para el semestre 2021-1. El curso constará de 4 evaluaciones, dos interrogaciones y dos tareas, donde cada una tiene una ponderación de 25% en las fechas indicadas.
 
 ## Clases y ayudantías 
 
 | Tipo  | Tópico                             | Fecha        | Clase  | Grabación | Otros |
 | :-:   | -                                  | :-:          | :-:    | :-:       | :-:   |
 
-## Calendario evaluaciones
+## Calendario evaluaciones y ponderaciones
 
 | Evaluación | Publicación | Entrega | Otros |
 | :-:        | :-:         | :-:     | :-:   |
 | I1 | 23/04 | 23/04 | ... |
-| I2 | 31/05 | 31/05 | ... |
-| EX | 16/06 | 16/06 | ... |
+| I2 | 16/06 | 16/06 | ... |
+
+Además se harán 2 tareas de programación en assembly RISC-V, una antes de la primera interrogación y otra antes de la segunda interrogación.
 
 ## Emulador
 
