@@ -31,7 +31,7 @@ En la carpeta [apuntes](../../tree/master/Apuntes) encontrarán apuntes de los p
 
 ## IMPORTANTE
 
-- La información oficial del curso es aquella distribuida por el profesor y la disponible en la plataforma Canvas, esto es sólo una referencia.
+- La información oficial del curso es aquella distribuida por el profesor y la disponible en la plataforma Canvas/SIDING, esto es sólo una referencia.
 
 - Cualquier cambio en el calendario y evaluaciones será oportunamente avisado vía mail.
 
