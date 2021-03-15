@@ -6,7 +6,7 @@ Syllabus del curso IIC2343 Arquitectura de Computadores para el semestre 2021-1.
 
 | Tipo  | Tópico                             | Fecha        | Clase  | Grabación | Otros |
 | :-:   | -                                  | :-:          | :-:    | :-:       | :-:   |
-| Clase   | Introducción al ramo             | 15-03        | Pendiente    | Pendiente       | ...   |
+| Clase   | Introducción al ramo             | 15-03        | [PDF](../../tree/master/Clases/Presentation.pdf    | Pendiente       | ...   |
 
 ## Calendario evaluaciones y ponderaciones
 
