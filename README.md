@@ -19,7 +19,7 @@ Además se harán 2 tareas de programación en assembly RISC-V, una antes de la 
 
 ## Emulador
 
-Durante el curso es altamente probable que deban programar en assembly RISC-V, si desean familiarizarse con el lenguaje, pueden revisar [esta carpeta](../../tree/master/Emulador), donde encontaran documentación asociada a RISC-V y un emulador (`.jar`, requiere Java 8 o superior). También pueden practicar en [este emulador](https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/), pero soporta menos instrucciones y es mucho más limitado.
+Durante el curso deberán programar en assembly RISC-V, si desean familiarizarse con el lenguaje, pueden revisar [esta carpeta](../../tree/master/Emulador), donde encontaran documentación asociada a RISC-V y un emulador (`.jar`, requiere Java 8 o superior). También pueden practicar en [este emulador](https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/), pero soporta menos instrucciones y es mucho más limitado.
 
 ## Apuntes y libros
 
