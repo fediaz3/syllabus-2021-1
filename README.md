@@ -15,7 +15,7 @@ Syllabus del curso IIC2343 Arquitectura de Computadores para el semestre 2021-1.
 | T1 | 12/04 | TBD | ... |
 | I1 | 23/04 | 23/04 | ... |
 | T2 | 7/06 | TBD | ... |
-| I2 | 16/07 | 16/06 | ... |
+| I2 | 16/07 | 16/07 | ... |
 
 
 Además se harán 2 tareas de programación en assembly RISC-V, una antes de la primera interrogación y otra antes de la segunda interrogación.
