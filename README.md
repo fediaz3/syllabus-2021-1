@@ -7,7 +7,7 @@ Syllabus del curso IIC2343 Arquitectura de Computadores para el semestre 2021-1.
 | Tipo  | Tópico                             | Fecha        | Clase  | Grabación | Otros |
 | :-:   | -                                  | :-:          | :-:    | :-:       | :-:   |
 | Clase   | Introducción al ramo             | 15/03        | [PDF](../../tree/master/Clases/Presentation.pdf)    | [Link](https://zoom.us/rec/share/yromlzG-mapg_dTShlCHZvk5YvAqao2Ma7ml3rcrNTZT7DOr4ObqMeOvRwIfWW0.9zmymvFX0aXooX9j)       | ...   |
-| Clase | Lógica Digital | 17/03 | [PDF](../../tree/master/Clases/logicaDigital.pdf) | Pendiente | ...| 
+| Clase | Lógica Digital | 17/03 | [PDF](../../tree/master/Clases/logicaDigital.pdf) | [Link](https://zoom.us/rec/share/i2Qw_QKWHttc5xEx-2i2JYG2x6k_5mm7ULPWZQfL8t9podZI8yEUHJCy4Jl8EV7o.A7ATh-8HiTzMGam8) | ...| 
 
 ## Calendario evaluaciones y ponderaciones
 
