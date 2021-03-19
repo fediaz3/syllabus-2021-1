@@ -1,13 +1,18 @@
 # IIC2343 - Arquitectura de Computadores 💾
 
-Syllabus del curso IIC2343 Arquitectura de Computadores para el semestre 2021-1. El curso constará de 4 evaluaciones, dos interrogaciones y dos tareas, donde cada una tiene una ponderación de 25% en las fechas indicadas.
+Syllabus del curso IIC2343 Arquitectura de Computadores para el semestre 2021-1. 
+
+El curso constará de 4 evaluaciones, dos interrogaciones y dos tareas, donde cada una tiene una ponderación de 25%, en las fechas indicadas.
+
+La sesión de Zoom es persistente 👀.
 
 ## Clases y ayudantías 🏫
 
 | Tipo  | Tópico                             | Fecha        | Clase  | Grabación | Otros |
 | :-:   | -                                  | :-:          | :-:    | :-:       | :-:   |
 | Clase   | Introducción al ramo             | 15/03        | [PDF](../../tree/master/Clases/Presentation.pdf)    | [Link](https://zoom.us/rec/share/yromlzG-mapg_dTShlCHZvk5YvAqao2Ma7ml3rcrNTZT7DOr4ObqMeOvRwIfWW0.9zmymvFX0aXooX9j)       | ...   |
-| Clase | Lógica Digital | 17/03 | [PDF](../../tree/master/Clases/logicaDigital.pdf) | [Link](https://zoom.us/rec/share/i2Qw_QKWHttc5xEx-2i2JYG2x6k_5mm7ULPWZQfL8t9podZI8yEUHJCy4Jl8EV7o.A7ATh-8HiTzMGam8) | ...| 
+| Clase | Lógica digital | 17/03 | [PDF](../../tree/master/Clases/logicaDigital.pdf) | [Link](https://zoom.us/rec/share/i2Qw_QKWHttc5xEx-2i2JYG2x6k_5mm7ULPWZQfL8t9podZI8yEUHJCy4Jl8EV7o.A7ATh-8HiTzMGam8) | ...| 
+| Ayudantía | Lógica digital y cambio de base | 19/03 | [PDF](../../tree/master/Ayudantias/Ayudantia1.pdf) | Pendiente | ... |
 
 ## Calendario evaluaciones 📄
 
@@ -18,8 +23,13 @@ Syllabus del curso IIC2343 Arquitectura de Computadores para el semestre 2021-1.
 | T2 | 7/06 | TBD | ... |
 | I2 | 16/07 | 16/07 | ... |
 
+## Canales de comunicación 📩
 
-Además se harán 2 tareas de programación en assembly RISC-V, una antes de la primera interrogación y otra antes de la segunda interrogación.
+### Horario de atención: 8:00 a 20:00 de Lunes a Viernes, sin excepciones 🕒
+
+Para consultas de materia, ramo, tareas, etc. usaremos las [issues](https://github.com/IIC2343/syllabus-2021-1/issues) del syllabus, por favor recuerden seguir el Formato™ y **buscar** en las issues antes de hacer una pregunta. Recuerden que si bien vamos a estar respondiendo las issues, ustedes también pueden ayudar a responder dudas.
+
+Temas administrativos como notas, dificultades de cualquier índole, imprevistos, temas privados y demás, está disponible el mail del curso [iic2343@ing.puc.cl](mailto:iic2343@ing.puc.cl) y el correo del profesor, [yadran@ing.puc.cl](mailto:yadran@ing.puc.cl).
 
 ## Emulador 💻
 
@@ -39,7 +49,7 @@ En la carpeta [apuntes](../../tree/master/Apuntes) encontrarán apuntes de los p
 
 - Cualquier cambio en el calendario y evaluaciones será oportunamente avisado vía mail.
 
-- El lenguaje a usar en este curso es assembly RISC-V, no x86 u otro. Tampoco el assembly asociado al computador del ramo que se ve en las diapositivas del curso y en algunos de los apuntes.
+- El lenguaje a usar en este curso es assembly RISC-V, no x86 ni el assembly asociado al computador del ramo, que se ve en las diapositivas del curso y en algunos de los apuntes.
 
 ## Otros Semestres ♻
 
