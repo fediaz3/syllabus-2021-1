@@ -29,7 +29,7 @@ La sesión de Zoom es persistente 👀.
 
 Para consultas de materia, ramo, tareas, etc. usaremos las [issues](https://github.com/IIC2343/syllabus-2021-1/issues) del syllabus, por favor recuerden seguir el Formato™ y **buscar** en las issues antes de hacer una pregunta. Recuerden que si bien vamos a estar respondiendo las issues, ustedes también pueden ayudar a responder dudas.
 
-Temas administrativos como notas, dificultades de cualquier índole, imprevistos, temas privados y demás, está disponible el mail del curso [iic2343@ing.puc.cl](mailto:iic2343@ing.puc.cl) y el correo del profesor, [yadran@ing.puc.cl](mailto:yadran@ing.puc.cl).
+Temas administrativos no relacionados con materia, al mail del curso [iic2343@ing.puc.cl](mailto:iic2343@ing.puc.cl) y para cosas privadas o sensibles, como dificultades de cualquier índole, imprevistos, enfermedad, etc, está disponible el correo del profesor, [yadran@ing.puc.cl](mailto:yadran@ing.puc.cl).
 
 ## Emulador 💻
 
