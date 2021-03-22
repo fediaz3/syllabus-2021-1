@@ -22,7 +22,7 @@ La sesión de Zoom es persistente 👀.
 | T1 | 12/04 | TBD | ... |
 | I1 | 23/04 | 23/04 | ... |
 | T2 | 7/06 | TBD | ... |
-| I2 | 16/07 | 16/07 | ... |
+| I2 | 15/07 | 15/07 | ... |
 
 ## Canales de comunicación 📩
 
