@@ -14,7 +14,7 @@ La sesión de Zoom es persistente 👀.
 | Clase | Lógica digital | 17/03 | [PDF](../../tree/master/Clases/logicaDigital.pdf) | [Link](https://zoom.us/rec/share/i2Qw_QKWHttc5xEx-2i2JYG2x6k_5mm7ULPWZQfL8t9podZI8yEUHJCy4Jl8EV7o.A7ATh-8HiTzMGam8) | ...|
 | Ayudantía | Lógica digital y cambio de base | 19/03 | [PDF](../../tree/master/Ayudantias/Ayudantia1.pdf) | [Link](https://drive.google.com/file/d/1O46QI9cAXZr20VVj0VYsDoNPHyFeG3g6/view?usp=sharing) | ... |
 | Clase | Aritmética y números | 22/03 | [PDF](../../tree/master/Clases/aritmetica&numeros.pdf) | [Link](https://zoom.us/rec/share/jFV8a-uJKKVPWnnmjAB8telyoA-tKl3SokssSNF_L7NIIEapU6FNP4-3-aCX95_7.aYLIBeP-1AWdFprM) | ... |
-| Clase | Aritmética y circuitos de control | 22/03 | Pendiente | Pendiente | ... |
+| Clase | Aritmética y circuitos de control | 22/03 | [Lógica y control](../../tree/master/Clases/logicaDigital.pdf)  [Aritmética](../../tree/master/Clases/aritmetica&numeros.pdf)  | Pendiente | ... |    
 
 ## Calendario evaluaciones 📄
 
