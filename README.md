@@ -15,7 +15,7 @@ La sesión de Zoom es persistente 👀.
 | Ayudantía | Lógica digital y cambio de base | 19/03 | [PDF](../../tree/master/Ayudantias/Ayudantia1.pdf) | [Link](https://drive.google.com/file/d/1O46QI9cAXZr20VVj0VYsDoNPHyFeG3g6/view?usp=sharing) | ... |
 | Clase | Aritmética y números | 22/03 | [PDF](../../tree/master/Clases/aritmetica&numeros.pdf) | [Link](https://zoom.us/rec/share/jFV8a-uJKKVPWnnmjAB8telyoA-tKl3SokssSNF_L7NIIEapU6FNP4-3-aCX95_7.aYLIBeP-1AWdFprM) | ... |
 | Clase | Aritmética y circuitos de control | 22/03 | [Lógica y control](../../tree/master/Clases/logicaDigital.pdf) - [Aritmética](../../tree/master/Clases/aritmetica&numeros.pdf)  | [Link](https://zoom.us/rec/share/mpSzOuALODGechZWl5mxtTUt3gIQ5F-nBfkkX47pbCkekVKumMx_c0OKe6dnHKA.ag5gb0IUrCo_5PRK) | ... |
-| Ayudantía | Aritmética y circuitos | 26/03 | [PDF](../../tree/master/Ayudantias/ayudantia#2.pdf) | Pendiente | ... |
+| Ayudantía | Aritmética y circuitos | 26/03 | [PDF](../../tree/master/Ayudantias/ayudantia%32.pdf) | Pendiente | ... |
 
 ## Calendario evaluaciones 📄
 
