@@ -36,7 +36,7 @@ Temas administrativos no relacionados con materia, al mail del curso [iic2343@in
 
 ## Emulador 💻
 
-Durante el curso deberán programar en assembly RISC-V, si desean familiarizarse con el lenguaje, pueden revisar [esta carpeta](../../tree/master/Emulador), donde encontraran documentación asociada a RISC-V y un emulador (`.jar`, requiere Java 8 o superior). También pueden practicar en [este emulador](https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/), pero soporta menos instrucciones y es mucho más limitado.
+Durante el curso deberán programar en assembly RISC-V, si desean familiarizarse con el lenguaje, pueden revisar [esta carpeta](../../tree/master/Emulador), donde encontraran documentación asociada a RISC-V y un emulador (`.jar`, requiere Java 8 o superior), el repositorio del emulador, junto a su documentación, se encuentra [acá](https://github.com/TheThirdOne/rars) (nosotros no mantenemos el emulador). También pueden practicar en [este emulador](https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/), pero soporta menos instrucciones y es mucho más limitado.
 
 ## Apuntes y libros 📚
 
