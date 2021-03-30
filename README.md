@@ -16,6 +16,7 @@ La sesión de Zoom es persistente 👀.
 | Clase | Aritmética y números | 22/03 | [PDF](../../tree/master/Clases/aritmetica&numeros.pdf) | [Link](https://zoom.us/rec/share/jFV8a-uJKKVPWnnmjAB8telyoA-tKl3SokssSNF_L7NIIEapU6FNP4-3-aCX95_7.aYLIBeP-1AWdFprM) | ... |
 | Clase | Aritmética y circuitos de control | 22/03 | [Lógica y control](../../tree/master/Clases/logicaDigital.pdf) - [Aritmética](../../tree/master/Clases/aritmetica&numeros.pdf)  | [Link](https://zoom.us/rec/share/mpSzOuALODGechZWl5mxtTUt3gIQ5F-nBfkkX47pbCkekVKumMx_c0OKe6dnHKA.ag5gb0IUrCo_5PRK) | ... |
 | Ayudantía | Aritmética y circuitos | 26/03 | [PDF](../../tree/master/Ayudantias/ayudantia2.pdf) | [Link](https://drive.google.com/drive/folders/1MTCFFJ8Hr8sCin8KFyCe1CagFart4vhR?usp=sharing) | ... |
+| Clase | Lógica digital | 29/03 | [PDF](../../tree/master/Clases/logicaDigital-act.pdf) | [Link](https://zoom.us/rec/share/U14zqqej4rXaYeDS805rYQMcbOH-SwXMVM1U9TNYhxLvwhHNc3GPSNYCgQgzjz12.n0V9CqWbHtkDg09q) | ... |
 
 ## Calendario evaluaciones 📄
 
