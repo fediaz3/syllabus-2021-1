@@ -18,7 +18,7 @@ La sesión de Zoom es persistente 👀.
 | Ayudantía | Aritmética y circuitos | 26/03 | [PDF](../../tree/master/Ayudantias/ayudantia2.pdf) | [Link](https://drive.google.com/drive/folders/1MTCFFJ8Hr8sCin8KFyCe1CagFart4vhR?usp=sharing) | ... |
 | Clase | Lógica digital | 29/03 | [PDF](../../tree/master/Clases/logicaDigital-act.pdf) | [Link](https://zoom.us/rec/share/U14zqqej4rXaYeDS805rYQMcbOH-SwXMVM1U9TNYhxLvwhHNc3GPSNYCgQgzjz12.n0V9CqWbHtkDg09q) | ... |
 | Clase | Procesador I | 31/03 | [PDF](../../tree/master/Clases/procesador-I.pdf) | [Link](https://zoom.us/rec/share/-WVEJD_VDxuWCr4LMZm1Z85ORU5_0_8iVbW0TUxVh1gE_SeQM_zroTZtD-AuMIdx.f3nMMo7gximvFYPG) | ... |
-| Clase | Procesador II | 05/04 | [PDF](../../tree/master/Clases/procesador-I-II.pdf) | Pendiente | ... |
+| Clase | Procesador II | 05/04 | [PDF](../../tree/master/Clases/procesador-I-II.pdf) | [Link](https://zoom.us/rec/share/O28F4einrU2d_McuTqYsJQAoJp-HzBbTlMB3KoehNtC2aHkwe2MK3xgdKyV4daJj.1ictuF07wqAcODiz) | ... |
 
 ## Calendario evaluaciones 📄
 
