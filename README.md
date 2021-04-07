@@ -8,10 +8,6 @@ La sesión de Zoom es persistente 👀.
 
 ## Clases y ayudantías 🏫
 
-### Nota
-
-Las clases del 29 de Marzo y anteriores no estaban respaldadas fuera de la nube de Zoom (っ °Д °;)っ , de ahora en adelante haremos respaldos en Google Drive y les subiremos ese link.
-
 | Tipo  | Tópico                             | Fecha        | Clase  | Grabación | Otros |
 | :-:   | -                                  | :-:          | :-:    | :-:       | :-:   |
 | Clase   | Introducción al ramo             | 15/03        | [PDF](../../tree/master/Clases/Presentation.pdf)    | [Link](https://zoom.us/rec/share/yromlzG-mapg_dTShlCHZvk5YvAqao2Ma7ml3rcrNTZT7DOr4ObqMeOvRwIfWW0.9zmymvFX0aXooX9j)       | ...   |
