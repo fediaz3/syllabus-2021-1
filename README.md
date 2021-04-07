@@ -10,7 +10,7 @@ La sesión de Zoom es persistente 👀.
 
 ### Nota
 
-Las clases del 29 de Marzo y anteriores no estaban respaldadas (っ °Д °;)っ , de ahora en adelante haremos respaldos en Google Drive y les subiremos ese link.
+Las clases del 29 de Marzo y anteriores no estaban respaldadas fuera de la nube de Zoom (っ °Д °;)っ , de ahora en adelante haremos respaldos en Google Drive y les subiremos ese link.
 
 | Tipo  | Tópico                             | Fecha        | Clase  | Grabación | Otros |
 | :-:   | -                                  | :-:          | :-:    | :-:       | :-:   |
