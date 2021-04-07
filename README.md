@@ -14,10 +14,10 @@ Las clases del 29 de Marzo y anteriores no estaban respaldadas fuera de la nube 
 
 | Tipo  | Tópico                             | Fecha        | Clase  | Grabación | Otros |
 | :-:   | -                                  | :-:          | :-:    | :-:       | :-:   |
-| Clase   | Introducción al ramo             | 15/03        | [PDF](../../tree/master/Clases/Presentation.pdf)    | [Link](https://zoom.us/rec/share/yromlzG-mapg_dTShlCHZvk5YvAqao2Ma7ml3rcrNTZT7DOr4ObqMeOvRwIfWW0.9zmymvFX0aXooX9j)       | ...   |
-| Clase | Lógica digital | 17/03 | [PDF](../../tree/master/Clases/logicaDigital.pdf) | [Link](https://zoom.us/rec/share/i2Qw_QKWHttc5xEx-2i2JYG2x6k_5mm7ULPWZQfL8t9podZI8yEUHJCy4Jl8EV7o.A7ATh-8HiTzMGam8) | ...|
+| Clase   | Introducción al ramo             | 15/03        | [PDF](../../tree/master/Clases/Presentation.pdf)    | [Link](https://drive.google.com/drive/folders/1YY4CPboIKAaakbzXx-FECkRyKiY2iS5j?usp=sharing)       | ...   |
+| Clase | Lógica digital | 17/03 | [PDF](../../tree/master/Clases/logicaDigital.pdf) | [Link](https://drive.google.com/drive/folders/1xk8qJHGCJLpS871XDbeWYQw3QcXvype8?usp=sharing) | ...|
 | Ayudantía | Lógica digital y cambio de base | 19/03 | [PDF](../../tree/master/Ayudantias/Ayudantia1.pdf) | [Link](https://drive.google.com/file/d/1O46QI9cAXZr20VVj0VYsDoNPHyFeG3g6/view?usp=sharing) | ... |
-| Clase | Aritmética y números | 22/03 | [PDF](../../tree/master/Clases/aritmetica&numeros.pdf) | [Link](https://zoom.us/rec/share/jFV8a-uJKKVPWnnmjAB8telyoA-tKl3SokssSNF_L7NIIEapU6FNP4-3-aCX95_7.aYLIBeP-1AWdFprM) | ... |
+| Clase | Aritmética y números | 22/03 | [PDF](../../tree/master/Clases/aritmetica&numeros.pdf) | [Link](https://drive.google.com/drive/folders/1OkE0m_-USvmc-zbPMlukXsRS17CbbWXG?usp=sharing) | ... |
 | Clase | Aritmética y circuitos de control | 22/03 | [Lógica y control](../../tree/master/Clases/logicaDigital.pdf) - [Aritmética](../../tree/master/Clases/aritmetica&numeros.pdf)  | [Link](https://drive.google.com/drive/folders/1VkmEAJKCucPBfuzELrL-kyH1HCJxhRBe?usp=sharing) | ... |
 | Ayudantía | Aritmética y circuitos | 26/03 | [PDF](../../tree/master/Ayudantias/ayudantia2.pdf) | [Link](https://drive.google.com/drive/folders/1MTCFFJ8Hr8sCin8KFyCe1CagFart4vhR?usp=sharing) | ... |
 | Clase | Lógica digital | 29/03 | [PDF](../../tree/master/Clases/logicaDigital-act.pdf) | [Link](https://drive.google.com/drive/folders/1yBbBR2sH2psjG9Wxl0m_UBI_X-LzG-Zh?usp=sharing) | ... |
