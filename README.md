@@ -10,15 +10,15 @@ La sesión de Zoom es persistente 👀.
 
 | Tipo  | Tópico                             | Fecha        | Clase  | Grabación | Otros |
 | :-:   | -                                  | :-:          | :-:    | :-:       | :-:   |
-| Clase   | Introducción al ramo             | 15/03        | [PDF](../../tree/master/Clases/Presentation.pdf)    | [Link](https://zoom.us/rec/share/yromlzG-mapg_dTShlCHZvk5YvAqao2Ma7ml3rcrNTZT7DOr4ObqMeOvRwIfWW0.9zmymvFX0aXooX9j)       | ...   |
-| Clase | Lógica digital | 17/03 | [PDF](../../tree/master/Clases/logicaDigital.pdf) | [Link](https://zoom.us/rec/share/i2Qw_QKWHttc5xEx-2i2JYG2x6k_5mm7ULPWZQfL8t9podZI8yEUHJCy4Jl8EV7o.A7ATh-8HiTzMGam8) | ...|
+| Clase   | Introducción al ramo             | 15/03        | [PDF](../../tree/master/Clases/Presentation.pdf)    | [Link](https://drive.google.com/drive/folders/1YY4CPboIKAaakbzXx-FECkRyKiY2iS5j?usp=sharing)       | ...   |
+| Clase | Lógica digital | 17/03 | [PDF](../../tree/master/Clases/logicaDigital.pdf) | [Link](https://drive.google.com/drive/folders/1xk8qJHGCJLpS871XDbeWYQw3QcXvype8?usp=sharing) | ...|
 | Ayudantía | Lógica digital y cambio de base | 19/03 | [PDF](../../tree/master/Ayudantias/Ayudantia1.pdf) | [Link](https://drive.google.com/file/d/1O46QI9cAXZr20VVj0VYsDoNPHyFeG3g6/view?usp=sharing) | ... |
-| Clase | Aritmética y números | 22/03 | [PDF](../../tree/master/Clases/aritmetica&numeros.pdf) | [Link](https://zoom.us/rec/share/jFV8a-uJKKVPWnnmjAB8telyoA-tKl3SokssSNF_L7NIIEapU6FNP4-3-aCX95_7.aYLIBeP-1AWdFprM) | ... |
-| Clase | Aritmética y circuitos de control | 22/03 | [Lógica y control](../../tree/master/Clases/logicaDigital.pdf) - [Aritmética](../../tree/master/Clases/aritmetica&numeros.pdf)  | [Link](https://zoom.us/rec/share/mpSzOuALODGechZWl5mxtTUt3gIQ5F-nBfkkX47pbCkekVKumMx_c0OKe6dnHKA.ag5gb0IUrCo_5PRK) | ... |
+| Clase | Aritmética y números | 22/03 | [PDF](../../tree/master/Clases/aritmetica&numeros.pdf) | [Link](https://drive.google.com/drive/folders/1OkE0m_-USvmc-zbPMlukXsRS17CbbWXG?usp=sharing) | ... |
+| Clase | Aritmética y circuitos de control | 22/03 | [Lógica y control](../../tree/master/Clases/logicaDigital.pdf) - [Aritmética](../../tree/master/Clases/aritmetica&numeros.pdf)  | [Link](https://drive.google.com/drive/folders/1VkmEAJKCucPBfuzELrL-kyH1HCJxhRBe?usp=sharing) | ... |
 | Ayudantía | Aritmética y circuitos | 26/03 | [PDF](../../tree/master/Ayudantias/ayudantia2.pdf) | [Link](https://drive.google.com/drive/folders/1MTCFFJ8Hr8sCin8KFyCe1CagFart4vhR?usp=sharing) | ... |
-| Clase | Lógica digital | 29/03 | [PDF](../../tree/master/Clases/logicaDigital-act.pdf) | [Link](https://zoom.us/rec/share/U14zqqej4rXaYeDS805rYQMcbOH-SwXMVM1U9TNYhxLvwhHNc3GPSNYCgQgzjz12.n0V9CqWbHtkDg09q) | ... |
-| Clase | Procesador I | 31/03 | [PDF](../../tree/master/Clases/procesador-I.pdf) | [Link](https://zoom.us/rec/share/-WVEJD_VDxuWCr4LMZm1Z85ORU5_0_8iVbW0TUxVh1gE_SeQM_zroTZtD-AuMIdx.f3nMMo7gximvFYPG) | ... |
-| Clase | Procesador II | 05/04 | [PDF](../../tree/master/Clases/procesador-I-II.pdf) | [Link](https://zoom.us/rec/share/O28F4einrU2d_McuTqYsJQAoJp-HzBbTlMB3KoehNtC2aHkwe2MK3xgdKyV4daJj.1ictuF07wqAcODiz) | ... |
+| Clase | Lógica digital | 29/03 | [PDF](../../tree/master/Clases/logicaDigital-act.pdf) | [Link](https://drive.google.com/drive/folders/1yBbBR2sH2psjG9Wxl0m_UBI_X-LzG-Zh?usp=sharing) | ... |
+| Clase | Procesador I | 31/03 | [PDF](../../tree/master/Clases/procesador-I.pdf) | [Link](https://drive.google.com/drive/folders/1g9k4ILoToDdmGUi8SieXLnqLqjQK_Fvx?usp=sharing) | ... |
+| Clase | Procesador II | 05/04 | [PDF](../../tree/master/Clases/procesador-I-II.pdf) | [Link](https://drive.google.com/drive/folders/1kfV612Zun7r21orZ88l9Ik5AOnHItqRo?usp=sharing) | ... |
 | Clase | Procesador III | 07/04 | [PDF](../../tree/master/Clases/procesador-I-III.pdf) | Pendiente | ... |
 
 ## Calendario evaluaciones 📄
