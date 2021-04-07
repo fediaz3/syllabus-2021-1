@@ -19,6 +19,7 @@ La sesión de Zoom es persistente 👀.
 | Clase | Lógica digital | 29/03 | [PDF](../../tree/master/Clases/logicaDigital-act.pdf) | [Link](https://zoom.us/rec/share/U14zqqej4rXaYeDS805rYQMcbOH-SwXMVM1U9TNYhxLvwhHNc3GPSNYCgQgzjz12.n0V9CqWbHtkDg09q) | ... |
 | Clase | Procesador I | 31/03 | [PDF](../../tree/master/Clases/procesador-I.pdf) | [Link](https://zoom.us/rec/share/-WVEJD_VDxuWCr4LMZm1Z85ORU5_0_8iVbW0TUxVh1gE_SeQM_zroTZtD-AuMIdx.f3nMMo7gximvFYPG) | ... |
 | Clase | Procesador II | 05/04 | [PDF](../../tree/master/Clases/procesador-I-II.pdf) | [Link](https://zoom.us/rec/share/O28F4einrU2d_McuTqYsJQAoJp-HzBbTlMB3KoehNtC2aHkwe2MK3xgdKyV4daJj.1ictuF07wqAcODiz) | ... |
+| Clase | Procesador III | 07/04 | [PDF](../../tree/master/Clases/procesador-I-III.pdf) | Pendiente | ... |
 
 ## Calendario evaluaciones 📄
 
