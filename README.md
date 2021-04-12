@@ -27,7 +27,7 @@ La sesión de Zoom es persistente 👀.
 
 | Evaluación | Publicación | Entrega | Otros |
 | :-:        | :-:         | :-:     | :-:   |
-| T1 | 12/04 | 03/05 | ... |
+| T1 | 12/04 | 03/05 | [Enunciado](../../tree/master/Tareas/T1.pdf) |
 | I1 | 23/04 | 23/04 | ... |
 | T2 | 7/06 | 05/06 | ... |
 | I2 | 15/07 | 15/07 | ... |
