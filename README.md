@@ -22,6 +22,7 @@ La sesión de Zoom es persistente 👀.
 | Clase | Procesador III | 07/04 | [PDF](../../tree/master/Clases/procesador-I-III.pdf) | [Link](https://drive.google.com/drive/folders/1SQ9NH8AJ9jCo-GD71_2jS_ZBwVOuEDBD?usp=sharing) | ... |
 | Ayudantía | Lógica digital y Procesador | 09/04 | [PDF](../../tree/master/Ayudantias/Ayudantia3.pdf) | [Link](https://drive.google.com/file/d/1LMR4C7MOdJeojvnfozeXrxFYICICSa0b/view?usp=sharing) | ... |
 | Clase | RISC-V I | 12/04 | [PDF](../../tree/master/Clases/InstrucsRISC-V.pdf) | [Link](https://drive.google.com/drive/folders/1gj94ry9g0nPj9YLr6SP2iJeUIvyqZP6v?usp=sharing) | ... |
+| Clase | RISC-V II | 14/04 | [PDF](../../tree/master/Clases/InstrucsRISC-V.pdf) | Pendiente | ... |
 
 ## Calendario evaluaciones 📄
 
