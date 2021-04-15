@@ -14,7 +14,7 @@ La sesión de Zoom es persistente 👀.
 | Clase | Lógica digital | 17/03 | [PDF](../../tree/master/Clases/logicaDigital.pdf) | [Link](https://drive.google.com/drive/folders/1xk8qJHGCJLpS871XDbeWYQw3QcXvype8?usp=sharing) | ...|
 | Ayudantía | Lógica digital y cambio de base | 19/03 | [PDF](../../tree/master/Ayudantias/Ayudantia1.pdf) | [Link](https://drive.google.com/file/d/1O46QI9cAXZr20VVj0VYsDoNPHyFeG3g6/view?usp=sharing) | ... |
 | Clase | Aritmética y números | 22/03 | [PDF](../../tree/master/Clases/aritmetica&numeros.pdf) | [Link](https://drive.google.com/drive/folders/1OkE0m_-USvmc-zbPMlukXsRS17CbbWXG?usp=sharing) | ... |
-| Clase | Aritmética y circuitos de control | 22/03 | [Lógica y control](../../tree/master/Clases/logicaDigital.pdf) - [Aritmética](../../tree/master/Clases/aritmetica&numeros.pdf)  | [Link](https://drive.google.com/drive/folders/1VkmEAJKCucPBfuzELrL-kyH1HCJxhRBe?usp=sharing) | ... |
+| Clase | Aritmética y circuitos de control | 24/03 | [Lógica y control](../../tree/master/Clases/logicaDigital.pdf) - [Aritmética](../../tree/master/Clases/aritmetica&numeros.pdf)  | [Link](https://drive.google.com/drive/folders/1VkmEAJKCucPBfuzELrL-kyH1HCJxhRBe?usp=sharing) | ... |
 | Ayudantía | Aritmética y circuitos | 26/03 | [PDF](../../tree/master/Ayudantias/ayudantia2.pdf) | [Link](https://drive.google.com/drive/folders/1MTCFFJ8Hr8sCin8KFyCe1CagFart4vhR?usp=sharing) | ... |
 | Clase | Lógica digital | 29/03 | [PDF](../../tree/master/Clases/logicaDigital-act.pdf) | [Link](https://drive.google.com/drive/folders/1yBbBR2sH2psjG9Wxl0m_UBI_X-LzG-Zh?usp=sharing) | ... |
 | Clase | Procesador I | 31/03 | [PDF](../../tree/master/Clases/procesador-I.pdf) | [Link](https://drive.google.com/drive/folders/1g9k4ILoToDdmGUi8SieXLnqLqjQK_Fvx?usp=sharing) | ... |
@@ -22,7 +22,7 @@ La sesión de Zoom es persistente 👀.
 | Clase | Procesador III | 07/04 | [PDF](../../tree/master/Clases/procesador-I-III.pdf) | [Link](https://drive.google.com/drive/folders/1SQ9NH8AJ9jCo-GD71_2jS_ZBwVOuEDBD?usp=sharing) | ... |
 | Ayudantía | Lógica digital y Procesador | 09/04 | [PDF](../../tree/master/Ayudantias/Ayudantia3.pdf) | [Link](https://drive.google.com/file/d/1LMR4C7MOdJeojvnfozeXrxFYICICSa0b/view?usp=sharing) | ... |
 | Clase | RISC-V I | 12/04 | [PDF](../../tree/master/Clases/InstrucsRISC-V.pdf) | [Link](https://drive.google.com/drive/folders/1gj94ry9g0nPj9YLr6SP2iJeUIvyqZP6v?usp=sharing) | ... |
-| Clase | RISC-V II | 14/04 | [PDF](../../tree/master/Clases/InstrucsRISC-V.pdf) | Pendiente | ... |
+| Clase | RISC-V II | 14/04 | [PDF](../../tree/master/Clases/InstrucsRISC-V.pdf) | [Link](https://drive.google.com/drive/folders/15S4YYKCp9ZA14a2XzqY_cBe6Vy7LSgtX?usp=sharing) | ... |
 
 ## Calendario evaluaciones 📄
 
