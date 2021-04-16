@@ -34,7 +34,7 @@
     la a2, Jobs
     lw a2, 0(a2) # a2 tiene el numero de trabajos
     addi a2, a2, -1 # la lista va de 0 a 5
-    addi t0, t0, 0 # seteamos el contador en 0
+    mv t0, zero # seteamos el contador en 0
 
     for:
         lbu a3, 0(s0) # cargamos trabajo actual en a3

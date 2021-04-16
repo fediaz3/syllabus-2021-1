@@ -10,6 +10,7 @@
             li a2, 882
             beq a1, a2, notEqual
             j end
+            
 
         notEqual:
             lw a2, 4(a0)
