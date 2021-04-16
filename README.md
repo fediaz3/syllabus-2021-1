@@ -23,6 +23,7 @@ La sesión de Zoom es persistente 👀.
 | Ayudantía | Lógica digital y Procesador | 09/04 | [PDF](../../tree/master/Ayudantias/Ayudantia3.pdf) | [Link](https://drive.google.com/file/d/1LMR4C7MOdJeojvnfozeXrxFYICICSa0b/view?usp=sharing) | ... |
 | Clase | RISC-V I | 12/04 | [PDF](../../tree/master/Clases/InstrucsRISC-V.pdf) | [Link](https://drive.google.com/drive/folders/1gj94ry9g0nPj9YLr6SP2iJeUIvyqZP6v?usp=sharing) | ... |
 | Clase | RISC-V II | 14/04 | [PDF](../../tree/master/Clases/InstrucsRISC-V.pdf) | [Link](https://drive.google.com/drive/folders/15S4YYKCp9ZA14a2XzqY_cBe6Vy7LSgtX?usp=sharing) | ... |
+| Ayudantía | RISC-V & Tarea 1 | 16/04 | [PDF](../../tree/master/Ayudantias/Ayudantia4.pdf) | Pendiente | [Ejemplos](../../tree/master/Ayudantias/Ayudantia4) |
 
 ## Calendario evaluaciones 📄
 
