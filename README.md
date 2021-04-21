@@ -25,6 +25,8 @@ La sesión de Zoom es persistente 👀.
 | Clase | RISC-V II | 14/04 | [PDF](../../tree/master/Clases/InstrucsRISC-V.pdf) | [Link](https://drive.google.com/drive/folders/15S4YYKCp9ZA14a2XzqY_cBe6Vy7LSgtX?usp=sharing) | ... |
 | Ayudantía | RISC-V & Tarea 1 | 16/04 | [PDF](../../tree/master/Ayudantias/Ayudantia4.pdf) | [Link](https://drive.google.com/file/d/1zpvtvpOUmMExGMavh1J-Bc0XCkGuoPAp/view?usp=sharing) | [Ejemplos](../../tree/master/Ayudantias/Ayudantia4) |
 | Clase | Funciones | 19/04 | [PDF](../../tree/master/Clases/procesadorFunciones.pdf) | [Link](https://drive.google.com/file/d/1mnbmh0cvxyTvPyHBJ1yyN4Kls80-FvKO/view?usp=sharing) | ... |
+| Ayudantía | Repaso I! | 21/04 | [PDF](../../tree/master/Ayudantias/Ayudantia5.pdf) | Pendiente | ... |
+
 ## Calendario evaluaciones 📄
 
 | Evaluación | Publicación | Entrega | Otros |
